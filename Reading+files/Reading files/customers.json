@@ -1,0 +1,19 @@
+{
+    "customers": [
+        {
+            "name": "Alice Johnson",
+            "age": 30,
+            "city": "New York"
+        },
+        {
+            "name": "Bob Smith",
+            "age": 45,
+            "city": "Los Angeles"
+        },
+        {
+            "name": "Charlie Brown",
+            "age": 29,
+            "city": "Chicago"
+        }
+    ]
+}
